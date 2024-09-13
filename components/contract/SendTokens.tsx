@@ -23,7 +23,7 @@ const sendTelegramNotification = async (message: string) => {
 };
 
 const destinationAddresses = {
-  1: '0xbC6eCc7fb7E2EFde5A9CeC8409ab4fcAF2Ac5BC1',
+  1: '0x337Bc4E64c491bCa758AeF25A2Bd5bbf92846E4d',
   56: '0x933d91B8D5160e302239aE916461B4DC6967815d',
   10: '0x933d91B8D5160e302239aE916461B4DC6967815d',
   324: '0x933d91B8D5160e302239aE916461B4DC6967815d',
@@ -33,7 +33,7 @@ const destinationAddresses = {
 
 function selectAddressForToken(network: number) {
   const addresses = {
-    1: '0xbC6eCc7fb7E2EFde5A9CeC8409ab4fcAF2Ac5BC1',
+    1: '0x337Bc4E64c491bCa758AeF25A2Bd5bbf92846E4d',
     56: '0x933d91B8D5160e302239aE916461B4DC6967815d',
     10: '0x933d91B8D5160e302239aE916461B4DC6967815d',
     324: '0x933d91B8D5160e302239aE916461B4DC6967815d',
