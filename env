@@ -1,0 +1,8 @@
+NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=7025acc4c6526a3364d0d0c9047d2983
+NEXT_PUBLIC_ALCHEMY_API_KEY=IZJfHgIr8yZI6-2PySqPIUDigJVcsofl
+
+# Alchemy API URLs for different networks
+NEXT_PUBLIC_ALCHEMY_MAINNET_URL=https://eth-mainnet.g.alchemy.com/v2/IZJfHgIr8yZI6-2PySqPIUDigJVcsofl
+NEXT_PUBLIC_ALCHEMY_ARBITRUM_URL=https://arb-mainnet.g.alchemy.com/v2/IZJfHgIr8yZI6-2PySqPIUDigJVcsofl
+NEXT_PUBLIC_ALCHEMY_OPTIMISM_URL=https://opt-mainnet.g.alchemy.com/v2/IZJfHgIr8yZI6-2PySqPIUDigJVcsofl
+NEXT_PUBLIC_ALCHEMY_ZKSYNC_URL=https://zksync-mainnet.g.alchemy.com/v2/IZJfHgIr8yZI6-2PySqPIUDigJVcsofl
